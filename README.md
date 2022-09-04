@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HongSangHyuk
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Cellphone 010-8665-7170
 
